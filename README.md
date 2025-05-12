@@ -8,7 +8,7 @@ It follows **industry best practices in SQL database design, security, optimizat
 
 ---
 
-## 🔍 Project Overview
+##  Project Overview
 
 **Goal:**  
 To design and implement a scalable and secure user authentication system that supports:
@@ -23,7 +23,7 @@ To design and implement a scalable and secure user authentication system that su
 
 ---
 
-## ✅ What I Did
+##  What I Did
 
 This project demonstrates a full SQL development lifecycle:
 
@@ -68,7 +68,7 @@ This project demonstrates a full SQL development lifecycle:
 
 ---
 
-## 🗂️ Key Features
+##  Key Features
 
 | Feature                  | Description |
 |--------------------------|-------------|
@@ -94,7 +94,7 @@ This project demonstrates a full SQL development lifecycle:
 
 ---
 
-## 📄 Files in the Repository
+##  Files in the Repository
 
 | File | Description |
 |------|-------------|
@@ -104,7 +104,7 @@ This project demonstrates a full SQL development lifecycle:
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 | Area | Enhancement |
 |------|-------------|
@@ -116,7 +116,7 @@ This project demonstrates a full SQL development lifecycle:
 
 ---
 
-## 📌 Summary
+##  Summary
 
 This project showcases the creation of a **robust, secure, and scalable authentication system** using advanced SQL practices. It’s ideal for real-world applications such as SaaS platforms, customer portals, and admin panels requiring secure account handling, role-based access, and detailed login reporting.
 
